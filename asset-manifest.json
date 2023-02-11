@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/AyushMahala.github.io/static/css/main.0022c6ea.css",
-    "main.js": "/AyushMahala.github.io/static/js/main.671d1769.js",
-    "static/js/787.aa74bccb.chunk.js": "/AyushMahala.github.io/static/js/787.aa74bccb.chunk.js",
-    "static/media/image.jpg": "/AyushMahala.github.io/static/media/image.99ec3af22ff309898986.jpg",
-    "index.html": "/AyushMahala.github.io/index.html",
-    "main.0022c6ea.css.map": "/AyushMahala.github.io/static/css/main.0022c6ea.css.map",
-    "main.671d1769.js.map": "/AyushMahala.github.io/static/js/main.671d1769.js.map",
-    "787.aa74bccb.chunk.js.map": "/AyushMahala.github.io/static/js/787.aa74bccb.chunk.js.map"
+    "main.css": "/static/css/main.f6d81fea.css",
+    "main.js": "/static/js/main.ad0dab74.js",
+    "static/js/787.aa74bccb.chunk.js": "/static/js/787.aa74bccb.chunk.js",
+    "static/media/image.jpg": "/static/media/image.99ec3af22ff309898986.jpg",
+    "index.html": "/index.html",
+    "main.f6d81fea.css.map": "/static/css/main.f6d81fea.css.map",
+    "main.ad0dab74.js.map": "/static/js/main.ad0dab74.js.map",
+    "787.aa74bccb.chunk.js.map": "/static/js/787.aa74bccb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0022c6ea.css",
-    "static/js/main.671d1769.js"
+    "static/css/main.f6d81fea.css",
+    "static/js/main.ad0dab74.js"
   ]
 }
