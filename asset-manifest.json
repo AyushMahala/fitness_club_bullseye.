@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AyushMahala.github.io/fitness_club_bullseye/static/css/main.cf84e836.css",
+    "main.js": "/AyushMahala.github.io/fitness_club_bullseye/static/js/main.78c5a01c.js",
+    "static/js/787.aa74bccb.chunk.js": "/AyushMahala.github.io/fitness_club_bullseye/static/js/787.aa74bccb.chunk.js",
+    "static/media/image.jpg": "/AyushMahala.github.io/fitness_club_bullseye/static/media/image.99ec3af22ff309898986.jpg",
+    "index.html": "/AyushMahala.github.io/fitness_club_bullseye/index.html",
+    "main.cf84e836.css.map": "/AyushMahala.github.io/fitness_club_bullseye/static/css/main.cf84e836.css.map",
+    "main.78c5a01c.js.map": "/AyushMahala.github.io/fitness_club_bullseye/static/js/main.78c5a01c.js.map",
+    "787.aa74bccb.chunk.js.map": "/AyushMahala.github.io/fitness_club_bullseye/static/js/787.aa74bccb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf84e836.css",
+    "static/js/main.78c5a01c.js"
+  ]
+}
