@@ -26,7 +26,7 @@ body{
 
 .cover .main{
   display: flex;
-  margin-top: 25px;
+  margin-top: 35px;
   align-items: center;
 }
 
@@ -35,7 +35,7 @@ body{
   height: 355px;
   background-color: whitesmoke;
   margin: 30px auto;
-  padding: 20px;   
+  padding: 23px;   
 }
 
 .cover .form-container .btn{

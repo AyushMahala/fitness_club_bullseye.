@@ -51,7 +51,7 @@ export const App = () => {
 
   return (
     <div className='cover'>
-      <h1>BookList Maintainance Form</h1>
+      <h1>Booklist Maintainance Form</h1>
       <p>Add and view your books using local storage</p>
       <div className='main'>
 
