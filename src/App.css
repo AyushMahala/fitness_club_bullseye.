@@ -26,13 +26,13 @@ body{
 
 .cover .main{
   display: flex;
-  margin-top: 20px;
+  margin-top: 25px;
   align-items: center;
 }
 
 .cover .form-container{
   width: 550px;
-  height: 350px;
+  height: 355px;
   background-color: whitesmoke;
   margin: 30px auto;
   padding: 20px;   
