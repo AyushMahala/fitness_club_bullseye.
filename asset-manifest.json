@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.f6d81fea.css",
-    "main.js": "/static/js/main.ad0dab74.js",
-    "static/js/787.aa74bccb.chunk.js": "/static/js/787.aa74bccb.chunk.js",
-    "static/media/image.jpg": "/static/media/image.99ec3af22ff309898986.jpg",
-    "index.html": "/index.html",
-    "main.f6d81fea.css.map": "/static/css/main.f6d81fea.css.map",
-    "main.ad0dab74.js.map": "/static/js/main.ad0dab74.js.map",
-    "787.aa74bccb.chunk.js.map": "/static/js/787.aa74bccb.chunk.js.map"
+    "main.css": "/fitness_club_bullseye./static/css/main.84270284.css",
+    "main.js": "/fitness_club_bullseye./static/js/main.67e0ace9.js",
+    "static/js/787.aa74bccb.chunk.js": "/fitness_club_bullseye./static/js/787.aa74bccb.chunk.js",
+    "static/media/image.jpg": "/fitness_club_bullseye./static/media/image.99ec3af22ff309898986.jpg",
+    "index.html": "/fitness_club_bullseye./index.html",
+    "main.84270284.css.map": "/fitness_club_bullseye./static/css/main.84270284.css.map",
+    "main.67e0ace9.js.map": "/fitness_club_bullseye./static/js/main.67e0ace9.js.map",
+    "787.aa74bccb.chunk.js.map": "/fitness_club_bullseye./static/js/787.aa74bccb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6d81fea.css",
-    "static/js/main.ad0dab74.js"
+    "static/css/main.84270284.css",
+    "static/js/main.67e0ace9.js"
   ]
 }
