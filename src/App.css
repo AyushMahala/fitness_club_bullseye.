@@ -1,38 +1,62 @@
-.App {
+
+body{
+  background-image: url("image.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:cover;
+}
+
+.cover{
+  overflow-x: hidden;
+  overflow-y: auto;    
+}
+
+.cover h1{
+  margin-top: 15px;
   text-align: center;
+  color: red;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.cover p{
+  text-align: center;
+  margin-top: 7px;
+  font-weight:900;
+  color: skyblue;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.cover .main{
+  display: flex;
+  margin-top: 20px;
+  align-items: center;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.cover .form-container{
+  width: 550px;
+  height: 350px;
+  background-color: whitesmoke;
+  margin: 30px auto;
+  padding: 20px;   
+}
+
+.cover .form-container .btn{
+  width: 100%;   
+}
+
+.cover .view-container{
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  width: 500px;    
+  background-color: whitesmoke;
+  margin: 20px auto;
+  padding: 20px;
+
 }
 
-.App-link {
-  color: #61dafb;
+.delete-btn{
+  color: darkred;
+  cursor: pointer;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+tbody{
+  margin-top: 25px;
 }
